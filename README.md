@@ -2,7 +2,7 @@
 - We gonna try to learn.
 - Hello, I am learning Nodejs, Database in the [Discord Server](https://discord.gg/UmKjrWBe)
 - [Source Code](https://github.com/tansionline/discord-lessons/tree/master/nodejs-mongodb)
-- My mentor is [Bugra](https://github.com/flurach) 
+- My mentor is [Bugra](https://github.com/flurach) from [Find Mentor](https://findmentor.network/)
 
 
 **[Join Us](https://discord.gg/UmKjrWBe)** 
